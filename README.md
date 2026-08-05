@@ -863,3 +863,13 @@ Based on the C way of @dbalatero
 2. Have an infinite number of monkeys type on a keyboard for an infinite amount of type.
 3. Make some tea and wait.
 4. According to [infinite monkey theorem](https://en.wikipedia.org/wiki/Infinite_monkey_theorem) they will exit vim eventually.
+
+---
+
+Built by [hakluke](https://hakluke.com) (Luke Stephens), founder and CEO of [Haksec](https://haksec.io), a group of cybersecurity companies:
+
+- [HackerContent](https://hackercontent.com) — content marketing and social media for cybersecurity companies
+- [Ironbark Cyber](https://ironbarkcyber.com) — cybersecurity consultancy for penetration testing, social engineering and OSINT
+- [TRIAGERS™](https://triagers.com) — outsourced bug bounty and vulnerability disclosure (VDP) triage
+
+I write about hacking and the security industry at [hakluke.com](https://hakluke.com). None of these companies can help you exit vim.
